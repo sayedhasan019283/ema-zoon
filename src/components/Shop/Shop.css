@@ -1,0 +1,15 @@
+.shoping-cart{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.shop-part{
+    margin-left: 0px;
+}
+.shop-part{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 36px;
+}
+.cart-components{
+    background-color: #FF99004D;
+}
